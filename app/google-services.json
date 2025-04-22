@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36216984148",
+    "project_id": "quizboy-9baae",
+    "storage_bucket": "quizboy-9baae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36216984148:android:ef892f24583b8aadf1d3c1",
+        "android_client_info": {
+          "package_name": "com.example.quizboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3DX3mvr7LqgVvBzNGP-6uyUIt2DgJ_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
